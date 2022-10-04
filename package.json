@@ -2,5 +2,8 @@
   "name": "our-libraries",
   "dependencies": {
     "express": "4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
